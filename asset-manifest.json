@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Numan-Portfolio/static/css/main.5b9d6f87.css",
+    "main.js": "/Numan-Portfolio/static/js/main.a642a8a8.js",
+    "static/js/787.6a8c6b58.chunk.js": "/Numan-Portfolio/static/js/787.6a8c6b58.chunk.js",
+    "static/media/materialdesignicons-webfont.eot": "/Numan-Portfolio/static/media/materialdesignicons-webfont.4a8138d1cb5d6b81b4ce.eot",
+    "static/media/materialdesignicons-webfont.ttf?v=7.2.96": "/Numan-Portfolio/static/media/materialdesignicons-webfont.06045137a6bebf225b52.ttf",
+    "static/media/materialdesignicons-webfont.woff?v=7.2.96": "/Numan-Portfolio/static/media/materialdesignicons-webfont.2e4e6992228f744fd7c8.woff",
+    "static/media/materialdesignicons-webfont.woff2?v=7.2.96": "/Numan-Portfolio/static/media/materialdesignicons-webfont.2acd2598cbed682569c8.woff2",
+    "static/media/pro2.png": "/Numan-Portfolio/static/media/pro2.e00bedb0aeaf6add9b17.png",
+    "static/media/pro6.png": "/Numan-Portfolio/static/media/pro6.96e1cd7c15269088d788.png",
+    "static/media/pro3.png": "/Numan-Portfolio/static/media/pro3.b94bbab384301bfee69b.png",
+    "static/media/pro5.png": "/Numan-Portfolio/static/media/pro5.62a18afb14967986d556.png",
+    "static/media/aboutimg.png": "/Numan-Portfolio/static/media/aboutimg.cb583992a2526c7c13b7.png",
+    "static/media/pro4.png": "/Numan-Portfolio/static/media/pro4.902a68d5a2f57a4874cb.png",
+    "static/media/pro7.png": "/Numan-Portfolio/static/media/pro7.07ffc0fd2998d194b3d2.png",
+    "static/media/homeimg.png": "/Numan-Portfolio/static/media/homeimg.7739e68cd0cf52854580.png",
+    "static/media/pro1.png": "/Numan-Portfolio/static/media/pro1.5b492c443cf6f745987d.png",
+    "static/media/blog1.png": "/Numan-Portfolio/static/media/blog1.9ee0c3428042d6f7a3f7.png",
+    "static/media/bgimg.webp": "/Numan-Portfolio/static/media/bgimg.ff3042d6f3c3adfb56d5.webp",
+    "static/media/bg3.jpg": "/Numan-Portfolio/static/media/bg3.a0f69aa1ff90c7a96c71.jpg",
+    "static/media/bg1.jpg": "/Numan-Portfolio/static/media/bg1.2ab6b40bed13beac4824.jpg",
+    "static/media/lowite.png": "/Numan-Portfolio/static/media/lowite.c3f15835bed207da7314.png",
+    "index.html": "/Numan-Portfolio/index.html",
+    "main.5b9d6f87.css.map": "/Numan-Portfolio/static/css/main.5b9d6f87.css.map",
+    "main.a642a8a8.js.map": "/Numan-Portfolio/static/js/main.a642a8a8.js.map",
+    "787.6a8c6b58.chunk.js.map": "/Numan-Portfolio/static/js/787.6a8c6b58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b9d6f87.css",
+    "static/js/main.a642a8a8.js"
+  ]
+}
