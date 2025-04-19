@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Numan-Portfolio/static/css/main.5b9d6f87.css",
-    "main.js": "/Numan-Portfolio/static/js/main.a642a8a8.js",
+    "main.js": "/Numan-Portfolio/static/js/main.0ed554d2.js",
     "static/js/787.6a8c6b58.chunk.js": "/Numan-Portfolio/static/js/787.6a8c6b58.chunk.js",
     "static/media/materialdesignicons-webfont.eot": "/Numan-Portfolio/static/media/materialdesignicons-webfont.4a8138d1cb5d6b81b4ce.eot",
     "static/media/materialdesignicons-webfont.ttf?v=7.2.96": "/Numan-Portfolio/static/media/materialdesignicons-webfont.06045137a6bebf225b52.ttf",
@@ -23,11 +23,11 @@
     "static/media/lowite.png": "/Numan-Portfolio/static/media/lowite.c3f15835bed207da7314.png",
     "index.html": "/Numan-Portfolio/index.html",
     "main.5b9d6f87.css.map": "/Numan-Portfolio/static/css/main.5b9d6f87.css.map",
-    "main.a642a8a8.js.map": "/Numan-Portfolio/static/js/main.a642a8a8.js.map",
+    "main.0ed554d2.js.map": "/Numan-Portfolio/static/js/main.0ed554d2.js.map",
     "787.6a8c6b58.chunk.js.map": "/Numan-Portfolio/static/js/787.6a8c6b58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b9d6f87.css",
-    "static/js/main.a642a8a8.js"
+    "static/js/main.0ed554d2.js"
   ]
 }
