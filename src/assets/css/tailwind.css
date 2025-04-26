@@ -2900,6 +2900,11 @@ ul li:first-child{
   color: #f1a00a;
   font-weight: 600;
   text-align: justify;
-  text-decoration: underline 3px white;
   line-height: 52px;
+}
+button.btn.bg-amber-500\/10.hover\:bg-amber-500.border-amber-500\/10.hover\:border-amber-500.text-amber-500.s.hover\:text-white.rounded-md.ms-1 {
+  margin-left: 48px;
+  border: 1px solid white !important;
+  margin-left: 40px !important;
+  padding: 22px;
 }
