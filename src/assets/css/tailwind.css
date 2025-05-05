@@ -1207,6 +1207,7 @@ video {
 }
 .pt-28{
   padding-top: 7rem !important;
+  padding-bottom: 4rem;
 }
 .pt-36{
   padding-top: 9rem !important;
@@ -2733,7 +2734,7 @@ html[dir=rtl] .tns-visually-hidden {
     left: -1.25rem !important;
   }
   :is([dir="ltr"] .ltr\:md\:-right-0){
-    right: -0px !important;
+    right: -5rem !important;
   }
   :is([dir="ltr"] .ltr\:md\:-right-5){
     right: -1.25rem !important;
@@ -2813,7 +2814,7 @@ html[dir=rtl] .tns-visually-hidden {
     bottom: 5rem !important;
   }
   .lg\:top-80{
-    top: 20rem !important;
+    top: 10rem !important;
   }
   .lg\:-z-2{
     z-index: -2 !important;
@@ -2907,4 +2908,38 @@ button.btn.bg-amber-500\/10.hover\:bg-amber-500.border-amber-500\/10.hover\:bord
   border: 1px solid white !important;
   margin-left: 40px !important;
   padding: 22px;
+}
+.absolute.commerce {
+  background-color: #0f172a;
+  float: left;
+  width: 20%;
+  text-align: center;
+  border-radius: 9px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-top: -10rem;
+  box-shadow: 5px 10px #02820d;
+}
+.text-border {
+  border: 1.5px double #02820d;
+  width: 15%;
+  margin-top: -11px;
+  margin-bottom: 25px;
+}
+.Hobbies-border {
+  border: 1.5px dotted #02820d;
+  width: 35%;
+  margin-top: -11px;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.offer-border{
+  
+  border: 1.5px dotted #02820d;
+  width: 30%;
+  margin-top: -10px;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
 }

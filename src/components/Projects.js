@@ -6,12 +6,12 @@ import '../../node_modules/react-18-image-lightbox/style.css';
 
 import projectimg from "../assets/images/projects/pro1.png";
 import projectimg2 from "../assets/images/projects/pro2.png";
-import projectimg3 from "../assets/images/projects/pro3.png";
+import projectimg3 from "../assets/images/projects/ecommrc.png";
 import projectimg4 from "../assets/images/projects/pro4.png";
-import projectimg5 from "../assets/images/projects/pro5.png";
+import projectimg5 from "../assets/images/projects/project1.png";
 import projectimg6 from "../assets/images/projects/pro6.png";
 import projectimg7 from "../assets/images/projects/pro7.png";
-import projectimg8 from "../assets/images/projects/pro4.png";
+import projectimg8 from "../assets/images/projects/project9.jpg";
 
 
 

@@ -6,6 +6,9 @@ import IMG from '../assets/images/bg/blog1.png';
 
 
 
+
+
+
 export default function Blogs(){
     return(
         <section className="relative md:py-24 py-16" id="blog">

@@ -25,6 +25,8 @@ export default function HeroOne() {
                                 <TypeAnimation
                                     sequence={[
                                         // Same substring at the start will only be typed out once, initially
+                                        ' NumanRP',
+                                        1000,
                                         'Costum Softwear Developer',
                                         1000, // wait 1s before replacing "Mice" with "Hamsters"
                                         'Website Designer',
@@ -72,7 +74,7 @@ export default function HeroOne() {
                         <div className="relative">
                             <img src={homeimg} alt="" />
 
-                            <div className=" lg:bottom-80 md:bottom-10 bottom-2 ltr:md:-left-5 ltr:left-2 rtl:md:-right-5 rtl:right-2 p-4 rounded-lg shadow-md dark:shadow-gray-800 bg-white dark:bg-slate-900 m-3 w-44 text-center">
+                            <div className="absolute lg:bottom-80 md:bottom-10 bottom-2 ltr:md:-left-5 ltr:left-2 rtl:md:-right-5 rtl:right-2 p-4 rounded-lg shadow-md dark:shadow-gray-800 bg-white dark:bg-slate-900 m-3 w-44 text-center">
                                 <span className="text-3xl font-medium mb-0"><span className="counter-value font-bold" data-target="125"> <CountUp
                                     start={7}
                                     className="counter-value"
@@ -81,7 +83,7 @@ export default function HeroOne() {
                                 <h6 className="text-sm text-slate-400 mt-1">Project Completed</h6>
                             </div>
 
-                            <div className="absolute lg:top-80 md:top-56 top-48 ltr:md:-right-0 ltr:right-2 rtl:md:-left-0 rtl:left-2 p-4 rounded-lg shadow-md dark:shadow-gray-800 bg-white dark:bg-slate-900 m-3 w-44 text-center">
+                            <div className="absolute lg:top-80 md:top-26 top-28 ltr:md:-right-0 ltr:right-2 rtl:md:-left-0 rtl:left-2 p-4 rounded-lg shadow-md dark:shadow-gray-800 bg-white dark:bg-slate-900 m-3 w-44 text-center">
                                 <h6 className="font-semibold">Web Designer</h6>
                                 <h6 className="text-sm text-slate-400 mt-1">7+ Years Experience</h6>
                             </div>

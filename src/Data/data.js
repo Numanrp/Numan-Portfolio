@@ -13,7 +13,7 @@ export const expertiseData = [
         Icon: Icon.Video
     },
     {
-        title:'GitHub',
+        title:'Shopify',
         Icon: Icon.Coffee
     },
     {
@@ -25,7 +25,7 @@ export const expertiseData = [
         Icon: Icon.Watch
     },
     {
-        title:'Designing',
+        title:'Github',
         Icon: Icon.Box
     },
     {
@@ -33,7 +33,7 @@ export const expertiseData = [
         Icon: Icon.Target
     },
     {
-        title:'Painting',
+        title:'Nodejs',
         Icon: Icon.PenTool
     },
     {
@@ -144,34 +144,34 @@ export const blogData = [
 ]
 export const review = [
     {
-        name:'Thomas Israel',
+        name:'Thomas & Farri',
         designation:'Manager',
-        image:'/images/client/01.jpg',
-        desc:"Obviously I'm a Web Designer. Web Developer with over 7 years of experience. Experienced with all stages of the development."
+        image:'/images/Testimonial/testimonial1.png',
+        desc:"Amazing NumanRp my work! Delivered my website quickly, clean code, responsive design. Highly recommended for anyone needing a professional web developer!"
     },
     {
-        name:'Thomas Israel',
+        name:'Henry & Gravity',
         designation:'Manager',
-        image:'/images/client/01.jpg',
-        desc:"Obviously I'm a Web Designer. Web Developer with over 7 years of experience. Experienced with all stages of the development."
+        image:'/images/Testimonial/testimonial2.png',
+        desc:"Excellent developer! Understood my requirements perfectly. Created a fast, mobile-friendly website that looks fantastic. Will definitely hire again! "
     },
     {
-        name:'Thomas Israel',
+        name:'Janifar & Jhon',
         designation:'Manager',
-        image:'/images/client/01.jpg',
-        desc:"Obviously I'm a Web Designer. Web Developer with over 7 years of experience. Experienced with all stages of the development."
+        image:'/images/Testimonial/testimonial3.png',
+        desc:"Very skilled and professional web developer. Communicated clearly, delivered on time, and made all requested updates perfectly. Highly satisfied client!"
     },
     {
-        name:'Thomas Israel',
+        name:'Sarry Dev',
         designation:'Manager',
-        image:'/images/client/01.jpg',
-        desc:"Obviously I'm a Web Designer. Web Developer with over 7 years of experience. Experienced with all stages of the development."
+        image:'/images/Testimonial/testimonial4.png',
+        desc:"Built my eCommerce site exactly how I imagined. Smooth process, creative solutions, and amazing attention to detail. Thank you!"
     },
     {
-        name:'Thomas Israel',
+        name:'Thomas Nigoria',
         designation:'Manager',
-        image:'/images/client/01.jpg',
-        desc:"Obviously I'm a Web Designer. Web Developer with over 7 years of experience. Experienced with all stages of the development."
+        image:'/images/Testimonial/testimonial5.png',
+        desc:"Outstanding job! Fast, reliable, and delivered a beautiful, SEO-optimized website. Truly a talented developer who cares about quality work."
     },
 ]
 

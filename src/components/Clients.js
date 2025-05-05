@@ -3,8 +3,25 @@ import { Link } from "react-router-dom";
 
 import TinySlider from "tiny-slider-react";
 import '../../node_modules/tiny-slider/dist/tiny-slider.css';
+// import { images } from '../assets/images/Testimonial';
 
 import { review } from "../Data/data";
+import  Terminal1  from "../assets/images/Testimonial/testimonial1.png";
+import Terminal2  from "../assets/images/Testimonial/testimonial2.png";
+import Terminal3 from "../assets/images/Testimonial/testimonial3.png";
+import Terminal4 from "../assets/images/Testimonial/testimonial4.png";
+import Terminal5 from "../assets/images/Testimonial/testimonial5.png";
+
+
+
+
+const images = {
+    Terminal1,
+    Terminal2,
+    Terminal3,
+    Terminal4,
+    Terminal5,
+  };
 
 const settings = {
     lazyload: true,
@@ -66,7 +83,10 @@ export default function Clients(){
                                             </div>
                                             
                                             <div className="text-center mt-5">
-                                                <img src={item.image} className="h-14 w-14 rounded-full shadow-md mx-auto mb-1" alt=""/>
+                                            <img src={Terminal2} className="h-14 w-14 rounded-full shadow-md mx-auto mb-1" alt=""/>
+                                            <img src={Terminal5} className="h-14 w-14 rounded-full shadow-md mx-auto mb-1" alt=""/>
+
+                                                <img src={Terminal3} className="h-14 w-14 rounded-full shadow-md mx-auto mb-1" alt=""/>
                                                 <Link to="" className="text-base font-medium h5 hover:text-amber-500 duration-500 ease-in-out">{item.name}</Link>
                                                 <span className="text-slate-400 text-sm block">{item.designation}</span>
                                             </div>
